@@ -1,4 +1,4 @@
-package com.mycompany.cusoraitest
+package com.emvigo.jobverse
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,8 +1,8 @@
 import '/flutter_flow/flutter_flow_util.dart';
-import 'home_page_widget.dart' show HomePageWidget;
+import 'network_error_widget.dart' show NetworkErrorWidget;
 import 'package:flutter/material.dart';
 
-class HomePageModel extends FlutterFlowModel<HomePageWidget> {
+class NetworkErrorModel extends FlutterFlowModel<NetworkErrorWidget> {
   @override
   void initState(BuildContext context) {}
 
